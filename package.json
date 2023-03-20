@@ -1,0 +1,14 @@
+{
+  "name": "qrcq",
+  "version": "1.0.0",
+  "description": "Test for QR code example with Gmail based on node js api",
+  "main": "index.js",
+  "scripts": {
+    "test": "serve"
+  },
+  "author": "Georges AYENI",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.5.1"
+  }
+}
